@@ -1,9 +1,0 @@
-# This example intentionally contains no feeder ID, location, IP address,
-# account name, Wi-Fi information, notification token, or API key.
-
-[services]
-names = ["piaware", "dump1090-fa"]
-
-[thresholds]
-minimum_free_gib = 2.0
-maximum_cpu_temperature_c = 80.0
